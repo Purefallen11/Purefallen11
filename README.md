@@ -32,8 +32,6 @@ Here are some ideas to get you started:
   <!--Node-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='50' height='50' alt='node icon' />
 </p>
-<br />
-<br />
 
 ### Connect with me on the web
 <p align='left' dir='auto'>
