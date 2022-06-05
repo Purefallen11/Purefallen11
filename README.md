@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width='50' height='50' alt='vscode icon' />
   <!--Node-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='50' height='50' alt='node icon' />
+  <!--MySQL-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50' height='50' alt='mysql icon' />
+  <!--Redux-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='50' height='50' alt='redux icon' />
 </p>
 
 ### Connect with me on the web
