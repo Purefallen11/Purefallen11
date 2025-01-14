@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently learning C# and .NET
 - 💬 Ask me about Front-End development
 - 📫 How to reach me: stevejosuerivera@yahoo.com
 - 😄 Pronouns: he/him
